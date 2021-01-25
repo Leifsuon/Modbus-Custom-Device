@@ -1,4 +1,4 @@
-## IP Name ##
+## Veristand Custom Device for Modbus ##
 
 Modbus Custom-Device is a Custom-Device for NI-VeriStand that allows to dialogue via Modbus Serial or TCP. It supports both Master and Slave. 
 This fork attempts to get the old upstream code to work on latest LabVIEW and also on a Linux_x64 based hardware (e.g. cRIO-9035)
