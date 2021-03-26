@@ -13,7 +13,7 @@ Only source-code is supplied, no built version (yet anyway)
 
 ### Quality, Limitations ###
 
-Quality: still unknown
+Quality: deployed on our cRIO-9035 and works fine for our needs (server in slave mode, using only some of all datatypes)
 
 Limitations:
 Still same as in upstream repo
